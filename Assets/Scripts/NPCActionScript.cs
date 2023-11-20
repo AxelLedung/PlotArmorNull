@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InteractObjectScript : MonoBehaviour
+public class NPCActionScript : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -15,8 +15,8 @@ public class InteractObjectScript : MonoBehaviour
     {
         
     }
-    public virtual void Interact()
+    public void Interact()
     {
-        Debug.Log("Interacted with " + this.name);
+        Debug.Log("Talked to " + this.name);
     }
 }
