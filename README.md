@@ -3,11 +3,11 @@ A Mystical Medieval World where you wake up in a tavern with no knowledge where 
 
 You will encounter people in the world that you will interact with and trade with if you choose. If you want to work as a blacksmith och become a wizard that is your choice.
 
-Resources:
+RESOURCES:
 
-Unity
+UNITY
 
-Piskel
+PISKEL
 
 Project Requirement:
 https://github.com/users/AxelLedung/projects/8
