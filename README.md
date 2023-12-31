@@ -5,3 +5,8 @@ You will encounter people in the world that you will interact with and trade wit
 Resources:
 Unity
 Piskel
+
+Project Requirement:
+https://github.com/users/AxelLedung/projects/8
+Classdiagram:
+https://drive.google.com/file/d/1xZOGGID0hX1ETkMMJoDD8hgVnKIKhJtO/view?usp=sharing
