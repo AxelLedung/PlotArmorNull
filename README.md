@@ -14,3 +14,6 @@ https://github.com/users/AxelLedung/projects/8
 
 Classdiagram:
 https://drive.google.com/file/d/1xZOGGID0hX1ETkMMJoDD8hgVnKIKhJtO/view?usp=sharing
+
+Storyteller:
+https://docs.google.com/document/d/1EgdFfFuxYrERMRCrO_e4jVN2pDBZo3nSnnNbrWF6YtM/edit?usp=sharing
