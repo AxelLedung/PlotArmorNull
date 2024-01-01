@@ -25,7 +25,7 @@ public class PlayerMovementScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        InventoryScript inventoryScript = new InventoryScript();
     }
 
     // Update is called once per frame

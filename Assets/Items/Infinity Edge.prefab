@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9105312072943163224}
-  - component: {fileID: 6563163978156451135}
+  - component: {fileID: 5852799754750043611}
   m_Layer: 0
   m_Name: Infinity Edge
   m_TagString: Untagged
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6563163978156451135
+--- !u!114 &5852799754750043611
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,7 +41,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4016655443201934637}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83512ddd70c1ff149b2269aa9211be21, type: 3}
+  m_Script: {fileID: 11500000, guid: e93312cae02af5441b0ddfd653f8da1d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 3
