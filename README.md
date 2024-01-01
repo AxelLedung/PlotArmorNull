@@ -17,3 +17,6 @@ https://drive.google.com/file/d/1xZOGGID0hX1ETkMMJoDD8hgVnKIKhJtO/view?usp=shari
 
 Storyteller:
 https://docs.google.com/document/d/1EgdFfFuxYrERMRCrO_e4jVN2pDBZo3nSnnNbrWF6YtM/edit?usp=sharing
+
+Game Document:
+https://docs.google.com/document/d/1Y8U4Zr-s6DmG3Mf2nPzZV5Vdl6JtqDeNQe22QuJYiGI/edit?usp=sharing
