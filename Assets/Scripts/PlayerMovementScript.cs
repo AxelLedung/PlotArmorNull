@@ -13,8 +13,10 @@ public class PlayerMovementScript : MonoBehaviour
 
     private float speed = 5;
 
-    private GameObject nearInteractObject;
-    private GameObject nearInteractNPC;
+    protected GameObject nearInteractObject;
+    protected GameObject nearInteractNPC;
+
+    public GameObject inventoryPanel;
 
     public List<Item> inventory = new List<Item>();
     public HeadGear headEquipped;
@@ -22,6 +24,8 @@ public class PlayerMovementScript : MonoBehaviour
     public LegsGear LegsEquipped;
     public Weapon mainWeapon;
     public Weapon offHandWeapon;
+
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -47,9 +51,17 @@ public class PlayerMovementScript : MonoBehaviour
         {
             nearInteractNPC.GetComponent<NPCActionScript>().Interact();
         }
-        else
+
+        if (Input.GetKeyDown(KeyCode.Tab))
         {
-            
+            if (inventoryPanel.gameObject.activeSelf == true)
+            {
+                inventoryPanel.gameObject.SetActive(false);
+            }
+            else
+            {
+                inventoryPanel.gameObject.SetActive(true);
+            }
         }
     }
     void Move()

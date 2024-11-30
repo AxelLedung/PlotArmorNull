@@ -4,9 +4,12 @@ using UnityEngine;
 
 public class InventoryScript : MonoBehaviour
 {
+    GameObject player;
+    GameObject inventoryPanel;
     // Start is called before the first frame update
     void Start()
     {
+        player = GetComponent<GameObject>();
         
     }
 

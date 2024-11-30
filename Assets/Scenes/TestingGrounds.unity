@@ -454,9 +454,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
-    - target: {fileID: 6145416796834489493, guid: 761c3d2a6060d264b9af4b0ddaf0a8c8, type: 3}
+    - target: {fileID: 5081123212765238857, guid: 761c3d2a6060d264b9af4b0ddaf0a8c8, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6145416796834489493, guid: 761c3d2a6060d264b9af4b0ddaf0a8c8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9029928303008059695, guid: 761c3d2a6060d264b9af4b0ddaf0a8c8, type: 3}
       propertyPath: m_Color.a
@@ -3663,7 +3667,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 3.06, y: -0.33}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &1350668060 stripped
@@ -4506,6 +4510,14 @@ PrefabInstance:
       propertyPath: offHandWeapon
       value: 
       objectReference: {fileID: 4570081286162709697, guid: b2c221995994b9c4dbb717ec7682cb87, type: 3}
+    - target: {fileID: 7199451200470717114, guid: cc5e4269ee0f009439faca350395f8cb, type: 3}
+      propertyPath: inventoryPanel
+      value: 
+      objectReference: {fileID: 177664779}
+    - target: {fileID: 7199451200470717114, guid: cc5e4269ee0f009439faca350395f8cb, type: 3}
+      propertyPath: inventoryScript
+      value: 
+      objectReference: {fileID: 177664780}
     - target: {fileID: 7199451200470717114, guid: cc5e4269ee0f009439faca350395f8cb, type: 3}
       propertyPath: inventory.Array.size
       value: 0
